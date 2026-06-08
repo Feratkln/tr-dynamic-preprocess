@@ -14,7 +14,7 @@ setup(
         "scikit-learn",
         "matplotlib"
     ],
-    author="Ferhat Kılınç",
+    author="Ferat Kılın",
     url="https://github.com/Feratkln/tr-dynamic-preprocess",
     description="Turkish Dynamic Preprocessing Library using Zemberek and FastText",
     long_description=open("README.md", encoding="utf-8").read() if open("README.md") else "Turkish Dynamic Preprocessing",
